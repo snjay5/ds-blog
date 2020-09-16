@@ -40,7 +40,7 @@ baseurl: "/ds-blog" # the subpath of your site, e.g. "/blog".
 minima:
   social_links:
     twitter: snjay5
-    github: fastai
+    github: snjay5
 
 # Set this to true to get LaTeX math equation support
 use_math: 
